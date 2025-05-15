@@ -2,6 +2,9 @@
 
 A Shrek-themed e-commerce Flutter application that offers unique merchandise for Shrek fans.
 
+# Student Name & ID
+Vhens Heinrich D. Cayas / 2023-2110605
+
 ## Features
 
 - 🏪 Browse Shrek-themed products in a beautiful grid layout
